@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+   
+  }
+select{
+    width: 100px;
+
+}
+th, td {
+    margin-left: 60px;
+  }
